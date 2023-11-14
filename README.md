@@ -4,7 +4,7 @@ This week we will practice how to translate addresses into coordinates,
 and how to join two vector layers based on their geometries.
 
 
-- **Exercise 3 is due by Friday, 25 November 2022, end of day**
+- **Exercise 3 is due by Thursday, 23 November 2023, end of day**
 
 - Don’t forget to check out the [hints for this week’s
 exercise](https://autogis-site.readthedocs.io/en/latest/lessons/lesson-3/exercise-3.html#hints)
