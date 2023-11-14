@@ -44,3 +44,13 @@ check whether your code works.
  - [Problem 1 (5 points)](Exercise-3-problem-1.ipynb)
  - [Problem 2 (7 points)](Exercise-3-problem-2.ipynb)
  - [Problem 3 (8 points)](Exercise-3-problem-3.ipynb)
+
+## Exercise 3 grade and feedback: ? / 20.0 points
+### Grader
+- ?
+### Problem scores
+- Problem 1: ? / 5.0
+- Problem 2: ? / 7.0
+- Problem 3: ? / 8.0
+### Comments
+- ?
